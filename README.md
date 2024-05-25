@@ -45,7 +45,10 @@ The E-commerce business Power BI Dashboard visualizes key performance indicators
 
 [View Photos](https://github.com/MevawalaBhavya/E-Commerce-Sales-Analysis-Excel-PowerBI/tree/main/dashboard%20and%20Excel%20analysis%20photos) of the Dashboard and Excel analysis.
 
-##  Sample Output:
+##  PowerBI Dashboard:
+![alt text](<dashboard and Excel analysis photos/PowerBI dashboard.png>)
+
+##  Sample Excel Output:
 ![alt text](<Sample image.png>)
 
 **Note:** The PowerBI online publishing link isn't available right now because of subscription issues. I'll add that online link soon, so anyone can open it and interact with it.
